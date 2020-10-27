@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Workspace\lm3\BSheep\BSheep\Source.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\lm3\BSheep\BSheep\Source.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\lm3\BSheep\BSheep\Source.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\lm3\BSheep\BSheep\Source.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+  BSheep.vcxproj -> D:\Workspace\lm3\BSheep\Debug\BSheep.exe
