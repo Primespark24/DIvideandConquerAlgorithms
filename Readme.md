@@ -15,10 +15,10 @@ You will be graded on:
 
 | Book Problems |                     | Points  |
 | --------------|:-------------------:|:-------:|
-| D.A.A. 5.5.7  |                     | 15 pts  |
-| D.A.A. 5.5.8  |                     | 15 pts  |
-| D.A.A. 5.5.9  |                     | 20 pts  |
-| Total         |                     | 50 pts  |
+| D.A.A. 5.5.7  | 15                  | 15 pts  |
+| D.A.A. 5.5.8  | 13                  | 15 pts  |
+| D.A.A. 5.5.9  | 18                  | 20 pts  |
+| Total         | 46                  | 50 pts  |
 
 ## Instructions
 1. Save a word or pdf document into the LM_?_0_Written folder with your answers to the problems assigned above.
@@ -33,8 +33,8 @@ You will be graded on:
 
 | SPOJ Problem                |                   |         |
 | ----------------------------|:-----------------:|:-------:|
-| SPOJ BSHEEP                 |                   | 50 pts  |
-| Total                       |                   | 50 pts  |
+| SPOJ BSHEEP                 | 35                | 50 pts  |
+| Total                       | 35                | 50 pts  |
 
 ## Instructions:
 1. Use git to clone this the LM folder from Whitgit to a local machine 
